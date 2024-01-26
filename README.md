@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Best Books For C Programming
 
 A curated list of the best books to learn C programming, handpicked to provide you with a comprehensive understanding of the language and help you become a proficient C programmer. Whether you're an absolute beginner or looking to enhance your skills, these books will guide you through the intricacies of C programming.
@@ -43,8 +42,3 @@ This book offers a modern take on C programming, covering both traditional C89 a
 If you have any suggestions for additional books that should be included in this list, please feel free to submit a pull request. Your contributions are greatly appreciated!
 
 ---
-
-=======
-# Library
-A library that stores pdf version of books
->>>>>>> 89008b28577a5ec2bda49e1477ffba6265dca978
